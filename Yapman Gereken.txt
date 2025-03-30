@@ -1,0 +1,5 @@
+Setup Dosyasını açıyoruz hata alıyorsanız hata duzeltme.bat dosyasını açarsanız düzelebilir
+
+Düzelmez ise python son sürümlerini indiriniz
+
+Alex.py açıyoruz ve kurulumdan kurulumunu yapıyoruz bukadar :)

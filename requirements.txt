@@ -1,0 +1,5 @@
+pyinstaller
+cx_freeze
+colorama
+pypresence
+pypiwin32
