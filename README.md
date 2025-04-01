@@ -4,4 +4,7 @@
 
 # English: If you are getting an error, open the hata duzeltme.bat in setup.bat and then open the setup.bat.
 
-https://github.com/user-attachments/assets/679f6657-8bbc-4135-b845-23ab005d23ea
+# New Update Video English version may be released soon after this update
+
+https://github.com/user-attachments/assets/84c442a1-ff7d-416c-b908-156b55e16bb0
+
